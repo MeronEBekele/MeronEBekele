@@ -19,7 +19,7 @@
 
 **8-bit computer from sratch**
 > This has been a project of mine for a while. The goal is to make a fully functioning computer with just basic login gates and breadboards.
-
+> * has everything a standard 8-bit computer has.
 
 
 ## My Skills:
