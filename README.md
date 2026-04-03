@@ -22,9 +22,4 @@
 > * has everything a standard 8-bit computer has.
 
 
-## My Skills:
-* 
 
-<!---.
-
---->
